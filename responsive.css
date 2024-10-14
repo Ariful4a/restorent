@@ -1,0 +1,163 @@
+@media (max-width:1400px){
+    h1 {
+        font-size: 2.3rem;
+        margin-bottom: 1rem;
+    }
+}
+
+
+@media (max-width:1200px){
+h1 {
+	font-size: 2.09rem;
+	margin-bottom: 1rem;
+}
+.main-btn {
+	font-size: 18px;
+}
+.top-banner {
+    padding:11.875rem 0;
+}
+}
+
+@media (max-width:1024px){
+    h1 {
+        font-size: 2rem;
+        margin-bottom: 1rem;
+    }
+    .main-btn {
+        padding: 11px 10px;
+        font-size: 16px;
+    }
+    .second-btn {
+        padding: 10px 10px;
+        font-size: 16px;
+
+    }
+    
+    .top-banner {
+        padding: 8.875rem 0;
+    }
+}
+
+
+
+/* ******************************* */
+@media (max-width:991px){
+    h1 {
+        font-size: 28px;
+        font-weight: 900;
+        margin-bottom: 1rem;
+    }
+    .main-btn {
+        padding: 10px 10px;
+        font-size: 16px;
+    }
+    .second-btn {
+        padding: 10px 10px;
+        font-size: 16px;
+
+    }
+
+    .top-banner {
+        padding: 6.875rem 0;
+    }
+    .testimonial-section .carousel-item .carousel-caption p{
+      padding: 0;
+    }
+}
+
+
+
+
+/* ******************************* */
+@media (max-width:767px){
+    .my_header a img {
+        width: 100px;
+    }
+    .top-banner .overly{
+        display: block;
+    }
+  
+    h1 {
+        font-size: 30px;
+        margin-bottom: 1rem;
+    }
+    .main-btn, .second-btn {
+        padding: 10px 10px;
+        font-size: 14px;
+    }
+
+    /* about section design  */
+    h2 {
+        font-size: 1.3rem;
+        line-height: 2rem;
+    }
+    .about-section .text-content{
+        padding-left: 0;
+        padding: 25px;
+    }
+
+    /* story sectin  */
+   
+    .story-section {
+        height: 22.125rem;
+        padding-top: 72px;
+
+    }
+    .story-section h2 {
+        font-size: 22px;
+        line-height: 35px;
+    }
+
+    /* testimonial section start  */
+
+    .testimonial-section .carousel-item{
+        padding: 11rem 3.125rem;
+    }
+
+}
+
+
+
+
+/* ******************************* */
+@media (max-width:330px){
+    .main-btn, .second-btn {
+        padding: 10px 10px;
+        font-size: 12px;
+    }
+
+    .top-banner {
+        padding: 3.875rem 0;
+    }
+
+    /* about section  */
+    h2 {
+        font-size: 1.4rem;
+        line-height: 2rem;
+    }
+
+    .about-section .text-content{
+        padding-left: 0;
+        padding: 20px;
+    }
+
+    /* story section  */
+    .story-section h2 {
+        font-size: 20px;
+        line-height: 35px;
+    }
+    p {
+        font-size: 14px;
+    }
+    .story-section {
+        height: 26.125rem;
+        padding-top: 72px;
+    }
+
+    /* testimonial section design start  */
+    
+    .testimonial-section .carousel-item{
+        padding: 11rem 3.125rem;
+    }
+}
